@@ -1,30 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: August 14, Tuesday, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked through the start of PSET3 from HarvardX CS50. Not to mention deciding to start the 100 Days of Code challenge
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts** 
+Spent a bulk of the time understanding the requirements of PSET3 which requires the implementation of 3 helper functions to fill out the application for reading and playing music. I've implemented the first one, but by the time I read through the helper and associated C files, as well as write out the happy birthday song in ASCII I had to head off to work. However will continue tomorrow. 
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+I'm excited about working through the 100 Days Of Code challenge primarily to help me see how far I am travelling in my coding journey. I don't necessarily need the motivation or anything to keep me in check. But I'm finding myself getting discouraged when I finish a coding session and get far less done than planned. I look forward to using this challenge as something that encourages me and reminds me that I'm achieving and learning.
