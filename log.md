@@ -15,3 +15,9 @@ I'm excited about working through the 100 Days Of Code challenge primarily to he
 
 **Thoughts**:
 I found the work today to be very hard work. CS50 is thoroughly enjoyable and an incredible programming course. However it moves at quite a pace. I think it will take me a bit longer than the 11 weeks it says it runs for. But thats OK. My goal is to have it done by the end of the year. So I think I'll just aim for that at this stage! 
+
+### Day 3: August 15, Wednesday, 2018
+
+**Today's Progress**: Fumbling through the Intermediate Algorithm Scripting exercises on FreeCodeCamp. I only had the 1 hour to spare today, and kinda feel a little bit disappointed with my efforts. However I did solidify (in part) my OO knowledge and learned more about return functions so that's something!  
+
+**Thoughts**: The intermediate algorithm challenges, I'm finding are significantly harder than the basic ones. I'm often having to check the hints and in some cases, look at the solutions. As soon as I do that I completely understand it (I think!). Nonetheless, as soon as I've finished this section I'll be going straight back through it because I don't think it's wise to move onto the projects section coming up next if I can't do the intermediate challenges. 
