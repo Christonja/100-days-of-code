@@ -27,3 +27,11 @@ I found the work today to be very hard work. CS50 is thoroughly enjoyable and an
 **Today's Progress**: Finished the intermediate algorithm challenges, now giving the final projects a crack. Got stuck into the first one. Seems relatively simple (Well.. by that I mean I managed to get most tests to pass on first attempt), however ran out of time to complete it.
 
 **Thoughts**: With Free Code Camp there seems this trend with alot of the JavaScript challenges, where it's easy to get a few tests to pass but hard to get all of them to pass. I appreciate this as you're not always going to be working with the input data you would normally expect so being able to work with different types is a very good way to learn. I also at least with this first JavaScript project based on my time with it thus far, it seems simpler than many of the intermediate JavaScript challenges. My speculation is that the next ones ramp up significantly. Whichever way, I'll definitely be going back through the intermediate challenges to have another crack. 
+
+### Day 5: August 18, Wednesday, 2018
+
+**Today's Progress**: Completed the first project which was to create a palindrome checker, I'm proud of myself on this one, because I didn't need to check any hints, I used my own resources to figure it out. Then I moved onto the Roman Numerals which I'm finding a struggle. I'll get there, of course, but I think I'll need a bit more help with this one. 
+
+**Thoughts**: I'm finding manipulating strings with regex's, splitting and joining them, iteration all that fun stuff to be some of my favorite challenges in freeCodeCamp, it's just everything else that's the issue! I'm getting there just been quite bogged down with other things has been over a week since I've had a solid block of time to code like a good 4 hours is ideal for me. Tomorrow I should be able to make some good progress. 
+
+**Link to work:** [Palindrome Checker](https://repl.it/@Christonja/AngelicSeveralGeneric)
