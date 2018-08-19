@@ -43,4 +43,4 @@ I found the work today to be very hard work. CS50 is thoroughly enjoyable and an
 **Thoughts**: Not too much to say today, struggled to find time today as I don't normally code on Sunday. In the future I think I'll just do an hour on Sunday as Sunday tends to be my 'get everything I didn't do during the week done day' ie. housework and phone reminders, plus I kinda want to relax which I think is pretty normal for a Sunday. Nonetheless was a solid day and I'm pretty happy with my efforts. 
 
 **Link to work:** [Caesars Cipher](https://repl.it/@Christonja/NextSympatheticFreesoftware)
-[Roman Numeral Converter](https://repl.it/@Christonja/ClientsideAttentiveCubase)
+, [Roman Numeral Converter](https://repl.it/@Christonja/ClientsideAttentiveCubase)
