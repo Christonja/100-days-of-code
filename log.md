@@ -44,3 +44,9 @@ I found the work today to be very hard work. CS50 is thoroughly enjoyable and an
 
 **Link to work:** [Caesars Cipher](https://repl.it/@Christonja/NextSympatheticFreesoftware)
 , [Roman Numeral Converter](https://repl.it/@Christonja/ClientsideAttentiveCubase)
+
+### Day 7: August 20, Monday, 2018
+
+**Today's Progress**: Finished and checked the music program in CS50
+
+**Thoughts**: Not much time today to do anything, but happy to have finished the music program now just a few final things to do before moving on to the next weeks work. 
