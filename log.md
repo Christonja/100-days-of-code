@@ -57,4 +57,4 @@ I found the work today to be very hard work. CS50 is thoroughly enjoyable and an
 
 **Thoughts**: Just managed to get my hour in today. Been a hectic few days, but loving the 100 days of code challenge, keeping me coding in amongst it all!
 
-**Link to work:** [Telephone Number Validator]https://repl.it/@Christonja/FrailAnimatedClass
+**Link to work:** [Telephone Number Validator](https://repl.it/@Christonja/FrailAnimatedClass)
