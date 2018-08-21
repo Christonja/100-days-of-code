@@ -53,7 +53,8 @@ I found the work today to be very hard work. CS50 is thoroughly enjoyable and an
 
 ### Day 8: August 21, Tuesday, 2018
 
-**Today's Progress**: Finished the Telephone number checker on Free Code Camp, very complex regular expression (At least out of what I've come across), but eventually figured out where I was going wrong, I needed to use the ? syntax to represent where there was 1 or 0 of something. Because of the sample data some options had 1 or 0 spaces, or 1 or zero hyphens etc. and both had to be accepted. 
+**Today's Progress**: Finished the Telephone number validator on Free Code Camp, very complex regular expression (At least out of what I've come across), but eventually figured out where I was going wrong, I needed to use the ? syntax to represent where there was 1 or 0 of something. Because of the sample data some options had 1 or 0 spaces, or 1 or zero hyphens etc. and both had to be accepted. 
 
 **Thoughts**: Just managed to get my hour in today. Been a hectic few days, but loving the 100 days of code challenge, keeping me coding in amongst it all!
 
+**Link to work:** [Telephone Number Validator]https://repl.it/@Christonja/FrailAnimatedClass
