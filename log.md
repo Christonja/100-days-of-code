@@ -50,3 +50,10 @@ I found the work today to be very hard work. CS50 is thoroughly enjoyable and an
 **Today's Progress**: Finished and checked the music program in CS50
 
 **Thoughts**: Not much time today to do anything, but happy to have finished the music program now just a few final things to do before moving on to the next weeks work. 
+
+### Day 8: August 21, Tuesday, 2018
+
+**Today's Progress**: Finished the Telephone number checker on Free Code Camp, very complex regular expression (At least out of what I've come across), but eventually figured out where I was going wrong, I needed to use the ? syntax to represent where there was 1 or 0 of something. Because of the sample data some options had 1 or 0 spaces, or 1 or zero hyphens etc. and both had to be accepted. 
+
+**Thoughts**: Just managed to get my hour in today. Been a hectic few days, but loving the 100 days of code challenge, keeping me coding in amongst it all!
+
