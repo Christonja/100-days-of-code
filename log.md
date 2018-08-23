@@ -70,3 +70,5 @@ I found the work today to be very hard work. CS50 is thoroughly enjoyable and an
 **Today's Progress**: Finished the freeCodeCamp challenge Cash Register. Took just as long to comment my code as it did to fix it after what I did yesterday!
 
 **Thoughts**: Excited to move onto the next part of freeCodeCamp, however I feel I need to run through some of the challenges etc again before moving on to far. 
+
+**Link to work:** [Cash Register](https://repl.it/@Christonja/ProperCompleteInstructions)
