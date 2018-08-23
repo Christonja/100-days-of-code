@@ -64,3 +64,9 @@ I found the work today to be very hard work. CS50 is thoroughly enjoyable and an
 **Today's Progress**: Spent the morning on the next unit in CS50 on edX, however did not do any coding as was watching the lecture and shorts. In the afternoon got in an hour of coding on Free Code Camp, maybe half way through the final Javascript challenge..
 
 **Thoughts**: Actually quite proud of how far I got through this final challenge "Cash Register" before getting stumped. But not stumped because I don't know what to do next per se, but stumped because I completely misred part of the challenge, I didn't realise I needed to use the cash register values to return the change to give to the customer, I thought that was only for the other parts of the challenge. But of course I need to use the values! duh! anyway tomorrow I'll go back through my algorithm and adjust for using the cash register values instead. I'm just worried that I'll struggle with it. But not to worry I'll get there! 
+
+### Day 10: August 23, Thursday, 2018
+
+**Today's Progress**: Finished the freeCodeCamp challenge Cash Register. Took just as long to comment my code as it did to fix it after what I did yesterday!
+
+**Thoughts**: Excited to move onto the next part of freeCodeCamp, however I feel I need to run through some of the challenges etc again before moving on to far. 
