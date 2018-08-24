@@ -79,5 +79,5 @@ I found the work today to be very hard work. CS50 is thoroughly enjoyable and an
 
 **Thoughts**: I found the Bootstrap challenges fun however I'm a little uncomfortable about how much Bootstrap hides from someone learning web design and development. I appreciate it's an incredible resource, however it feels a little constrained like if you want to use bootstrap, you have use it throughout, it doesn't seem like you can just use it in some places. Maybe I'm wrong will investigate another day. I mean the responsive layout stuff is excellent. Also I'm having issues getting my website to not overflow by 10 pixels. I spent an hour investigating, however have not resolved. Annoying!
 
-**Link to work:** [Cash Register](https://repl.it/@Christonja/ProperCompleteInstructions)
+**Link to work:** [My website](http://christonja.github.io/)
 
