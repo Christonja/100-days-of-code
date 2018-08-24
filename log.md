@@ -72,3 +72,12 @@ I found the work today to be very hard work. CS50 is thoroughly enjoyable and an
 **Thoughts**: Excited to move onto the next part of freeCodeCamp, however I feel I need to run through some of the challenges etc again before moving on to far. 
 
 **Link to work:** [Cash Register](https://repl.it/@Christonja/ProperCompleteInstructions)
+
+### Day 11: August 24, Friday, 2018
+
+**Today's Progress**: Ran through the Bootstrap challenges on freeCodeCamp, was pretty enjoyable to see the simplicity of bootstrap and the amount a few lines of code can do. I also updated my website to reflect the new projects I'd done. 
+
+**Thoughts**: I found the Bootstrap challenges fun however I'm a little uncomfortable about how much Bootstrap hides from someone learning web design and development. I appreciate it's an incredible resource, however it feels a little constrained like if you want to use bootstrap, you have use it throughout, it doesn't seem like you can just use it in some places. Maybe I'm wrong will investigate another day. I mean the responsive layout stuff is excellent. Also I'm having issues getting my website to not overflow by 10 pixels. I spent an hour investigating, however have not resolved. Annoying!
+
+**Link to work:** [Cash Register](https://repl.it/@Christonja/ProperCompleteInstructions)
+
