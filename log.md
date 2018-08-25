@@ -81,3 +81,8 @@ I found the work today to be very hard work. CS50 is thoroughly enjoyable and an
 
 **Link to work:** [My website](http://christonja.github.io/)
 
+### Day 12: August 25, Friday, 2018
+
+**Today's Progress**: Going back through the freeCodeCamp OO and functional programming sections to solidify my learning a bit. 
+
+**Thoughts**: It's taking much longer than I expected, It's a little troubling how much I've forgotten from the first time around, however I also remember alot too so I guess it's just how learning works =P
