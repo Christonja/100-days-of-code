@@ -86,3 +86,9 @@ I found the work today to be very hard work. CS50 is thoroughly enjoyable and an
 **Today's Progress**: Going back through the freeCodeCamp OO and functional programming sections to solidify my learning a bit. 
 
 **Thoughts**: It's taking much longer than I expected, It's a little troubling how much I've forgotten from the first time around, however I also remember alot too so I guess it's just how learning works =P
+
+### Day 13: August 26, Sunday, 2018
+
+**Today's Progress**: Brushing up on my functional programming in FreeCodeCamp
+
+**Thoughts**: That reduce function is one serious function!
