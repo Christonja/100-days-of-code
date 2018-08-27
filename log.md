@@ -92,3 +92,9 @@ I found the work today to be very hard work. CS50 is thoroughly enjoyable and an
 **Today's Progress**: Brushing up on my functional programming in FreeCodeCamp
 
 **Thoughts**: That reduce function is one serious function!
+
+### Day 14: August 27, Monday, 2018
+
+**Today's Progress**: Finished brushing up on my functional programming in FreeCodeCamp, now doing the JavaScript intermediate challenges again! 
+
+**Thoughts**: The intermediate challenges, are, very hard.. but at the same time.. I thoroughly enjoy them.. especially when you realise, hang on! I can just do this instead of 100 lines of code! I feel like doing them again has been greatly helpful thus far. 
