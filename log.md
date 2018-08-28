@@ -98,3 +98,11 @@ I found the work today to be very hard work. CS50 is thoroughly enjoyable and an
 **Today's Progress**: Finished brushing up on my functional programming in FreeCodeCamp, now doing the JavaScript intermediate challenges again! 
 
 **Thoughts**: The intermediate challenges, are, very hard.. but at the same time.. I thoroughly enjoy them.. especially when you realise, hang on! I can just do this instead of 100 lines of code! I feel like doing them again has been greatly helpful thus far. 
+
+### Day 15: August 28, Tuesday, 2018
+
+**Today's Progress**: Working through the Whodunit challenge in CS50
+
+**Thoughts**: CS50's challenges tend to be extremely intimidating, but then you read what's required and it's generally much less than what it appears. I'm not sure what their aim is in making challenges like this, but my guess is that it's to help students understand how their code fits into part of a greater program and what that may look like. Further how to read code and add onto something that already exists, as you may have to do in the real world. Nonetheless, I'm enjoying it, and excited to see whodunit haha!
+
+
