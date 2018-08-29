@@ -105,4 +105,10 @@ I found the work today to be very hard work. CS50 is thoroughly enjoyable and an
 
 **Thoughts**: CS50's challenges tend to be extremely intimidating, but then you read what's required and it's generally much less than what it appears. I'm not sure what their aim is in making challenges like this, but my guess is that it's to help students understand how their code fits into part of a greater program and what that may look like. Further how to read code and add onto something that already exists, as you may have to do in the real world. Nonetheless, I'm enjoying it, and excited to see whodunit haha!
 
+### Day 16: August 29, Wednesday, 2018
+
+**Today's Progress**: Finished Whodunit and struggling through the resize challenge in CS50
+
+**Thoughts**: Whodunit was simple enough once I knew what was going on. Resize remains as difficult as all hell. However I'm sure I'll eventually get there. However thus far, it's the first CS50 task that I have literally no idea if what I'm doing is even remotely the right way to go about it. 
+
 
