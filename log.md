@@ -111,4 +111,8 @@ I found the work today to be very hard work. CS50 is thoroughly enjoyable and an
 
 **Thoughts**: Whodunit was simple enough once I knew what was going on. Resize remains as difficult as all hell. However I'm sure I'll eventually get there. However thus far, it's the first CS50 task that I have literally no idea if what I'm doing is even remotely the right way to go about it. 
 
+### Day 17: August 30, Thursday, 2018
 
+**Today's Progress**: Working through FCC Javascript challenges, continuing to find them hard, but not as hard as the first time around.
+
+**Thoughts**: It's slowly becomming more intuitive, unfortunately some of these challenges I'm having to look at example solutions to figure out, however I'm finding I only need a couple of clues as opposed to a large chunk of clues. I feel like I'm progressing! Also late code session, as had literally no time today :/ 
