@@ -119,7 +119,7 @@ I found the work today to be very hard work. CS50 is thoroughly enjoyable and an
 
 ### Day 18 and 19: August 31 and September 1, Fri-Sat, 2018
 
-**Today's Progress**: Finished my Ruby on Rails tutorial kindly provided for free here: [link](https://upskillcourses.com/p/essential-web-developer-course 
+**Today's Progress**: Finished my Ruby on Rails tutorial kindly provided for free here: [link](https://upskillcourses.com/p/essential-web-developer-course)
 
 **Thoughts**: Forgot to write my journal for yesterday, so seeing as I was doing the exact same thing today I figured it was sensible to simply put both days together. 
 
