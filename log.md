@@ -116,3 +116,15 @@ I found the work today to be very hard work. CS50 is thoroughly enjoyable and an
 **Today's Progress**: Working through FCC Javascript challenges, continuing to find them hard, but not as hard as the first time around.
 
 **Thoughts**: It's slowly becomming more intuitive, unfortunately some of these challenges I'm having to look at example solutions to figure out, however I'm finding I only need a couple of clues as opposed to a large chunk of clues. I feel like I'm progressing! Also late code session, as had literally no time today :/ 
+
+### Day 18 and 19: August 31 and September 1, Fri-Sat, 2018
+
+**Today's Progress**: Finished my Ruby on Rails tutorial kindly provided for free here: [link](https://upskillcourses.com/p/essential-web-developer-course 
+
+**Thoughts**: Forgot to write my journal for yesterday, so seeing as I was doing the exact same thing today I figured it was sensible to simply put both days together. 
+
+This tutorial I found very hard. I will write a blog about it later, however for me I feel like I learned alot about Ruby on Rails but certainly not enough to create my own app with it as the tutorial claims to allow someone to be able to do. However early on in the tutorial I decided that that's not what I wanted to get out of it. More I wanted a deep dive into Ruby on Rails, to explore what technologies are used when working with ecommerce and pushing a site live, what it's like to use GitHub regularly for frequent commit's and working with Amazon Web Services. Which unfortunately had to move away from and instead use my old laptop which I installed lubuntu on and then ruby and rails and a billion other things to get working, but it worked well once all was said and done. 
+
+But I ended up learning alot about an array of different web technologies and linux, and for that I would recommend this course. 
+
+**Link to work:** [DevMatch](https://evening-woodland-43477.herokuapp.com/)
