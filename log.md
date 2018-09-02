@@ -128,3 +128,9 @@ This tutorial I found very hard. I will write a blog about it later, however for
 But I ended up learning alot about an array of different web technologies and linux, and for that I would recommend this course. 
 
 **Link to work:** [DevMatch](https://evening-woodland-43477.herokuapp.com/)
+
+### Day 20: September 2, Sun, 2018
+
+**Today's Progress**: Struggling through the Javascript challenges. 
+
+**Thoughts**: I feel like I'm better than I was the first time around, but gee they are hard! I just want to be able to implement them without checking a solution. I don't mind if I have to research functions etc. But if I have to check an example solution that to me means I cheated. I'm getting there, but like at the speed of 1 algorithm an hour. When there's alot of algorithms to go through, this feels slow.. but I'm progressing. 
