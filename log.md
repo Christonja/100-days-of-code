@@ -140,3 +140,9 @@ But I ended up learning alot about an array of different web technologies and li
 **Today's Progress**: Continuing through Javascript challenges in FCC.
 
 **Thoughts**: Regular expressions are hard sometimes. Fun though. 
+
+### Day 22: September 4, Tue, 2018
+
+**Today's Progress**: Finished Resize in CS50
+
+**Thoughts**: Absolute nightmare, learned alot, however just seemed like such an excessively difficult challenge as an introduction to file pointers. Why couldn't we just read from one text file and write to another then work toward this? Nonetheless, I learned alot so what's it matter?
