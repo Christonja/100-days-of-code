@@ -146,3 +146,11 @@ But I ended up learning alot about an array of different web technologies and li
 **Today's Progress**: Finished Resize in CS50
 
 **Thoughts**: Absolute nightmare, learned alot, however just seemed like such an excessively difficult challenge as an introduction to file pointers. Why couldn't we just read from one text file and write to another then work toward this? Nonetheless, I learned alot so what's it matter?
+
+### Day 23: September 5, Wed, 2018
+
+**Today's Progress**: Finished Recover in CS50
+
+**Thoughts**: Muuuch better than Resize, still very hard. I feel like this should've been the challenge that we started with as I feel it was a much better introduction to file pointers etc. than Resize was. Admittedly this week's course material made me feel stupid, and like I'm not cut out for the course. I mean I don't necessarily mean I'm an idiot and can't learn C. But maybe the delivery method is not for me. I'm making solid progress in freeCodeCamp and if I need to revise material, I have zero problem doing so and I have a solid grasp on what I need to revise and what I feel I know well enough to move on from. Whereas in CS50 I feel like I reached a point and now it's all just blurry and hard to grasp. Further I feel the learning method in CS50 is just not quite my style. Like the long winded video format is just not for me. freeCodeCamp has a bit of text, a bit of learning, a bit of text and a bit of learning, and so on. Like each little chunk of learning is very succinct and understandable and graded as pass/fail. Like instead of having to implement an entire program, you simply learn one little method, implement it, then learn another one. Then at the end you use these methods to implement a project. This is where it all ties together. Not having it all tie together when you don't know any of it yet. 
+
+I think my learning method is one of learn in parts then synthesize together. Not synthesize together whilst learning on the go. I appreciate everyone learns differently and I'll definitely crack on with CS50 as aside from me realising it's not quite my learning style, it is an amazing course! EVERYONE SHOULD GIVE IT A GO if they like programming. Just I don't know if I'll pursue further courses of this style moving forward or not :/ we'll see? I might get used to it :)
