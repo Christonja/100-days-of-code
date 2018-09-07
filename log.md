@@ -160,3 +160,11 @@ I think my learning method is one of learn in parts then synthesize together. No
 **Today's Progress**: Free Code Camp Javascript challenges
 
 **Thoughts**: I find anything to do with string manipulation, at least in these challenges, faaar easier than anything to do with arrays... at least in these challenges. 
+
+### Day 25: September 7, Fri, 2018
+
+**Today's Progress**: Free Code Camp Javascript challenges
+
+**Thoughts**: Definitely better at these the second time around.. as you would hope :)
+
+
