@@ -167,4 +167,9 @@ I think my learning method is one of learn in parts then synthesize together. No
 
 **Thoughts**: Definitely better at these the second time around.. as you would hope :)
 
+### Day 26: September 7, Fri, 2018
+
+**Today's Progress**: I studied FCC.
+
+**Thoughts**: Achieved almost nothing today.. attempting to sum primes makes me very angry
 
