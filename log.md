@@ -173,3 +173,9 @@ I think my learning method is one of learn in parts then synthesize together. No
 
 **Thoughts**: Achieved almost nothing today.. attempting to sum primes is frustrating
 
+### Day 27: September 9, Sun, 2018
+
+**Today's Progress**: Further FCC Study
+
+**Thoughts**: Figured out (mostly) how to do the sum of the primes in a nice but certainly not (according to research) the recommended way. Not fussed though, I'll learn the recommended way later. 
+
