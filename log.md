@@ -179,3 +179,9 @@ I think my learning method is one of learn in parts then synthesize together. No
 
 **Thoughts**: Figured out (mostly) how to do the sum of the primes in a nice but certainly not (according to research) the recommended way. Not fussed though, I'll learn the recommended way later. 
 
+### Day 28: September 10, Mon, 2018
+
+**Today's Progress**: Couple more JavaScript FCC challenges
+
+**Thoughts**: I suck at recursion.
+
