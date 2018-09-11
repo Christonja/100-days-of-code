@@ -185,3 +185,8 @@ I think my learning method is one of learn in parts then synthesize together. No
 
 **Thoughts**: I suck at recursion.
 
+### Day 29: September 11, Tue, 2018
+
+**Today's Progress**: Couple more JavaScript FCC challenges
+
+**Thoughts**: Went through these ones much easier than some of the other challenges. That being said, I found these ones easier the first time around too. Getting there! 
