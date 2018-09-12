@@ -190,3 +190,9 @@ I think my learning method is one of learn in parts then synthesize together. No
 **Today's Progress**: Couple more JavaScript FCC challenges
 
 **Thoughts**: Went through these ones much easier than some of the other challenges. That being said, I found these ones easier the first time around too. Getting there! 
+
+### Day 30: September 12, Wed, 2018
+
+**Today's Progress**: Couple more JavaScript FCC challenges
+
+**Thoughts**: These ones were a little harder, however much easier than the first time I went through them. As can be seen I am writing very little here each day. For the past week, this should change soon as I have started a new job, therefore am scraping the minimum daily requirements for #100DaysOfCode and have only been managing an hour a day the past week. As I get back on my feet a bit more this weekend and beyond it will extend to more work/day, however on the days I work it may very well not, at least not for a little while longer. Nonetheless, I'll certainly continue to do 1 hour a day =P
