@@ -202,3 +202,11 @@ I think my learning method is one of learn in parts then synthesize together. No
 **Today's Progress**: Finished off the intermediate javascript challenges now back onto the final challenges
 
 **Thoughts**: Ugh, I feel like in some areas, I've greatly developed my skills, but today I feel like, atleast in some areas, I may have gotten worse? Maybe I'm just tired -_-
+
+### Day 32: September 14, Fri, 2018
+
+**Today's Progress**: Completed the palindrome checker, roman numeral converter, caesar's cipher and telephone number validator in FCC
+
+**Thoughts**: Well, I must just had been tired yesterday, because I just smashed through four of the five javascript projects, maybe 20 minutes each. Admittedly I remembered some of the key parts of the projects from my first run through hence helping greatly in my second run through. Although is this not simply how one learns? Remembering how to implement algorithms? As long as I know logically aswell as syntactically what I'm doing, it can form a basis to extrapolate to new algorithms and new implementations.. I hope. Nonetheless proud of my efforts today. 
+
+I also listened to the next CS50 lecture, which I've been a bit slack on, on account of I simply prefer the delivery method of FCC to CS50. Nonetheless the content of both is equally as interesting so... 
