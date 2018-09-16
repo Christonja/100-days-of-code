@@ -211,8 +211,15 @@ I think my learning method is one of learn in parts then synthesize together. No
 
 I also listened to the next CS50 lecture, which I've been a bit slack on, on account of I simply prefer the delivery method of FCC to CS50. Nonetheless the content of both is equally as interesting so... 
 
-### Day 33: September 15, Sun, 2018
+### Day 33: September 15, Sat, 2018
 
 **Today's Progress**: Finished the cash register a second time, implemented a little differently now back to the front end libraries :) 
 
 **Thoughts**: Was interesting to run through a large amount of the Javascript stuff again. I felt it really helped, and although I could probably do with even more work solidifying my knowledge here, I feel that many people could say that sort of thing, therefore at this point moving on seems the most sensible option. I managed to implement each of the final projects again, this time without looking at any solutions. For me, that feels look as good a sign as any, that I can move on if I want to... and I really want to get into the front end stuff! 
+
+### Day 34: September 16, Sun, 2018
+
+**Today's Progress**: Ran through the JQuery and Sass topics on Free Code Camp 
+
+**Thoughts**: Very interesting to see how using these can make life muuuch simpler when working with HTML and CSS.. provided you know the syntax! 
+
