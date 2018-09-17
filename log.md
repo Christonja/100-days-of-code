@@ -223,3 +223,10 @@ I also listened to the next CS50 lecture, which I've been a bit slack on, on acc
 
 **Thoughts**: Very interesting to see how using these can make life muuuch simpler when working with HTML and CSS.. provided you know the syntax! 
 
+### Day 35: September 17, Mon, 2018
+
+**Today's Progress**: Started the React tutorials on FreeCodeCamp
+
+**Thoughts**: Excited to to finally learn what I always refered to as 'the language that seems to smash HTML and Javascript together'. 
+
+
