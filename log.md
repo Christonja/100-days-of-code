@@ -229,4 +229,9 @@ I also listened to the next CS50 lecture, which I've been a bit slack on, on acc
 
 **Thoughts**: Excited to to finally learn what I always refered to as 'the language that seems to smash HTML and Javascript together'. 
 
+### Day 36: September 18, Tue, 2018
+
+**Today's Progress**: Working further through the React tutorials on FreeCodeCamp
+
+**Thoughts**: Very interesting, feels very JavaScript OO meets HTML. Syntax is a little convoluted, yet.. sensible and I can tell what it's achieving and how it's making things more intuitive etc. But gosh will take some time to get a handle on it I think :/ 
 
