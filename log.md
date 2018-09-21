@@ -235,7 +235,7 @@ I also listened to the next CS50 lecture, which I've been a bit slack on, on acc
 
 **Thoughts**: Very interesting, feels very JavaScript OO meets HTML. Syntax is a little convoluted, yet.. sensible and I can tell what it's achieving and how it's making things more intuitive etc. But gosh will take some time to get a handle on it I think :/ 
 
-## Day 37: September 21, Fri, 2018
+### Day 37: September 21, Fri, 2018
 
 **Today's Progress**: Working further through the React tutorials on FreeCodeCamp
 
