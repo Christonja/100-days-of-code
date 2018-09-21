@@ -235,3 +235,12 @@ I also listened to the next CS50 lecture, which I've been a bit slack on, on acc
 
 **Thoughts**: Very interesting, feels very JavaScript OO meets HTML. Syntax is a little convoluted, yet.. sensible and I can tell what it's achieving and how it's making things more intuitive etc. But gosh will take some time to get a handle on it I think :/ 
 
+## Day 37: September 21, Fri, 2018
+
+**Today's Progress**: Working further through the React tutorials on FreeCodeCamp
+
+**Thoughts**: Missed a couple of days of coding, I've started a new job and although I do plan to study after work, the last couple of days I had other things on and by the time I finished those things, I was so tired the idea of studying even just for an hour seemed like the worst thing in the world, and also pointless because I'd probably fall asleep at my desk. Which bought the question up of is it better to push through anyway for integrity of the challenge, or leave it till the next day for integrity of the learning experience. 
+
+For example, today felt productive because I was awake and I went over alot of my react learning and it's feels quite reinforced at this point. However had I gone over it last night or the night before I don't think that would've been the case. Potentially I could've studied or coded 'something else'. Maybe that's what I'll do next time? Anyway. For now it's all a learning experience and today felt productive so, we're back on track with React :) 
+
+
