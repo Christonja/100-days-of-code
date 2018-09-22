@@ -243,4 +243,10 @@ I also listened to the next CS50 lecture, which I've been a bit slack on, on acc
 
 For example, today felt productive because I was awake and I went over alot of my react learning and it's feels quite reinforced at this point. However had I gone over it last night or the night before I don't think that would've been the case. Potentially I could've studied or coded 'something else'. Maybe that's what I'll do next time? Anyway. For now it's all a learning experience and today felt productive so, we're back on track with React :) 
 
+### Day 38: September 22, Sat, 2018
+
+**Today's Progress**: Working further through the React tutorials on FreeCodeCamp
+
+**Thoughts**: So I only managed a measly hour today. It turns out I have some health problems I need to sort out, so.. my extra studies are going to have to remain minimal for now. I will still do the hour a day, however, I'm concerned about my health and feel I should take it easy for a couple of weeks before spending too much time coding. Instead I will focus more on my lifestyle changes like exercise and eating better and sorting out possible issues with high blood pressure. Probably smart anyway as I have recently started a new job which is stressful enough and although I do enjoy the extracurricular study, It can be stressful if I'm struggling with a concept or something. So for now, it'll likely be kept to a minimum. However the beauty of 100daysofcode is it keeps you going even for just an hour a day, which I feel is manageable. 
+
 
