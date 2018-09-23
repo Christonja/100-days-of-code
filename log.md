@@ -249,4 +249,10 @@ For example, today felt productive because I was awake and I went over alot of m
 
 **Thoughts**: So I only managed a measly hour today. It turns out I have some health problems I need to sort out, so.. my extra studies are going to have to remain minimal for now. I will still do the hour a day, however, I'm concerned about my health and feel I should take it easy for a couple of weeks before spending too much time coding. Instead I will focus more on my lifestyle changes like exercise and eating better and sorting out possible issues with high blood pressure. Probably smart anyway as I have recently started a new job which is stressful enough and although I do enjoy the extracurricular study, It can be stressful if I'm struggling with a concept or something. So for now, it'll likely be kept to a minimum. However the beauty of 100daysofcode is it keeps you going even for just an hour a day, which I feel is manageable. 
 
+### Day 39: September 23, Sun, 2018
+
+**Today's Progress**: Working further through the React tutorials on FreeCodeCamp
+
+**Thoughts**: Not much to say today, managed an hour or so, finding I get more distracted only allocating an hour than I do allocating heaps of hours. I guess 1 hour doesn't quite give enough time to get a good flow going, at least not for me. Nonetheless, if I plan an hour and get sidetracked, I go for longer to make up for it.
+
 
