@@ -255,4 +255,9 @@ For example, today felt productive because I was awake and I went over alot of m
 
 **Thoughts**: Not much to say today, managed an hour or so, finding I get more distracted only allocating an hour than I do allocating heaps of hours. I guess 1 hour doesn't quite give enough time to get a good flow going, at least not for me. Nonetheless, if I plan an hour and get sidetracked, I go for longer to make up for it.
 
+### Day 40: September 24, Mon, 2018
+
+**Today's Progress**: Working further through the React tutorials on FreeCodeCamp
+
+**Thoughts**: Getting more convuluted everyday! Like I say... it makes sense. But still. It's a whole new level of abstraction I wasn't ready for. 
 
