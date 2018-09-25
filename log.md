@@ -261,3 +261,8 @@ For example, today felt productive because I was awake and I went over alot of m
 
 **Thoughts**: Getting more convuluted everyday! Like I say... it makes sense. But still. It's a whole new level of abstraction I wasn't ready for. 
 
+### Day 41: September 25, Tue, 2018
+
+**Today's Progress**: Working further through the React tutorials on FreeCodeCamp
+
+**Thoughts**: Hmm.. the more I do it, the more I grasp it.. but I still feel 20 steps behind where I should be!
