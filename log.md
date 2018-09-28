@@ -272,3 +272,9 @@ For example, today felt productive because I was awake and I went over alot of m
 **Today's Progress**: Finally finished the React tutorials on FreeCodeCamp
 
 **Thoughts**: Took me a while, but I got there, was interesting to learn about it and see how different the syntax is from standard JavaScript, it really is a mish mash of JavaScript, HTML and CSS if they all joined together and formed one mega language. At least that's how a newbie like me see's it! Will be interesting to see what the Redux challenges are like, but for now will leave it there as I'm sleepy and if I start something new I'll probably end up going over it all again tomorrow. 
+
+### Day 43: September 28, Fri, 2018
+
+**Today's Progress**: Halfway through the Redux challenges on FreeCodeCamp
+
+**Thoughts**: Hmm, a little bit more intuitive, yet still abstract and hard to understand. I imagine it will come together a bit easier when these technologies are implemented in a few real examples. 
