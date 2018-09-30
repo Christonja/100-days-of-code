@@ -278,3 +278,9 @@ For example, today felt productive because I was awake and I went over alot of m
 **Today's Progress**: Halfway through the Redux challenges on FreeCodeCamp
 
 **Thoughts**: Hmm, a little bit more intuitive, yet still abstract and hard to understand. I imagine it will come together a bit easier when these technologies are implemented in a few real examples. 
+
+### Day 44: September 30, Sun, 2018
+
+**Today's Progress**: Almost completed the Redux challenges in FreeCodeCamp
+
+**Thoughts**: Got bogged down today implementing the counter function in Redux. It was difficult, but a great learning experience. I find the challenges that attempt to get me to implement more are the ones that I learn the most in. However I often refer to the challenges that only got me to implement little bits at a time as a way to help to know what to implement in these later challenges, so it all works together =P
