@@ -285,7 +285,7 @@ For example, today felt productive because I was awake and I went over alot of m
 
 **Thoughts**: Got bogged down today implementing the counter function in Redux. It was difficult, but a great learning experience. I find the challenges that attempt to get me to implement more are the ones that I learn the most in. However I often refer to the challenges that only got me to implement little bits at a time as a way to help to know what to implement in these later challenges, so it all works together =P
 
-### Day 45: October 5, Sat, 2018
+### Day 45: October 5, Fri, 2018
 
 **Today's Progress**: Finished off the Redux challenges in FreeCodeCamp
 
