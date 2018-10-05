@@ -284,3 +284,11 @@ For example, today felt productive because I was awake and I went over alot of m
 **Today's Progress**: Almost completed the Redux challenges in FreeCodeCamp
 
 **Thoughts**: Got bogged down today implementing the counter function in Redux. It was difficult, but a great learning experience. I find the challenges that attempt to get me to implement more are the ones that I learn the most in. However I often refer to the challenges that only got me to implement little bits at a time as a way to help to know what to implement in these later challenges, so it all works together =P
+
+### Day 45: October 5, Sat, 2018
+
+**Today's Progress**: Finished off the Redux challenges in FreeCodeCamp
+
+**Thoughts**: Starting to get my head around it all so hopefully it can all be a little more understandable with the upcoming Redux + React challenges. Should be interesting O.o Also I appreciate at this stage I've basically failed my 100DaysOfCode challenge. However I've decided to take things easy for a while and focus just on my new job and relaxing whilst I get my blood pressure sorted out. I find medical things to be stressful and my health is always my priority. So I guess I can't say I've coded everyday for the past 100 days, but at this stage I'm not too concerned about that, I just want to reach 100 days of coding even if it takes 150 days or so. At this stage, for me it's more about my personal goals and achievements and I feel like if I can complete this challenge, even if it takes longer than it's supposed to; if I learn from my mistakes and can take a look at where I came from and where I got to, if I can grow in passion and enjoyment and knowledge of coding thanks to my participation in this challenge, then that's the main thing. 
+
+
