@@ -291,4 +291,10 @@ For example, today felt productive because I was awake and I went over alot of m
 
 **Thoughts**: Starting to get my head around it all so hopefully it can all be a little more understandable with the upcoming Redux + React challenges. Should be interesting O.o Also I appreciate at this stage I've basically failed my 100DaysOfCode challenge. However I've decided to take things easy for a while and focus just on my new job and relaxing whilst I get my blood pressure sorted out. I find medical things to be stressful and my health is always my priority. So I guess I can't say I've coded everyday for the past 100 days, but at this stage I'm not too concerned about that, I just want to reach 100 days of coding even if it takes 150 days or so. At this stage, for me it's more about my personal goals and achievements and I feel like if I can complete this challenge, even if it takes longer than it's supposed to; if I learn from my mistakes and can take a look at where I came from and where I got to, if I can grow in passion and enjoyment and knowledge of coding thanks to my participation in this challenge, then that's the main thing. 
 
+### Day 46: October 6, Sat, 2018
+
+**Today's Progress**: Working through the React and Redux challenges in FCC
+
+**Thoughts**: Every time I sit down and work through these challenges, it makes a little more sense each time. Certainly not enough for me to be confident in what I'm doing.. but I'm slowly beginning to grasp all this state management stuff and operating on the state of a program instead of a global one time run only program. It's interesting. But also.. gosh an uphill battle.. but that's how learning happens, that's why I'm doing this in the first place, to push myself to learn something that I never thought I was smart enough to learn. 
+
 
