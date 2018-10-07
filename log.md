@@ -297,4 +297,8 @@ For example, today felt productive because I was awake and I went over alot of m
 
 **Thoughts**: Every time I sit down and work through these challenges, it makes a little more sense each time. Certainly not enough for me to be confident in what I'm doing.. but I'm slowly beginning to grasp all this state management stuff and operating on the state of a program instead of a global one time run only program. It's interesting. But also.. gosh an uphill battle.. but that's how learning happens, that's why I'm doing this in the first place, to push myself to learn something that I never thought I was smart enough to learn. 
 
+### Day 47: October 7, Sun, 2018
 
+**Today's Progress**: Finished the React/Redux challenges in FCC
+
+**Thoughts**: Very interesting, alot to take on however! Have looked ahead at what the front end projects are like.. I'm a little intimidated, however will give it my best crack. When I did the html/css challenges I tried to make the end result look alot like the example just as a basis of what to get to. This time, I might just focus on the functionality side of things and just seek to make something that functions as it's supposed to... then maybe make it look pretty if I feel like doing so. 
