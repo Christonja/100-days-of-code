@@ -301,4 +301,4 @@ For example, today felt productive because I was awake and I went over alot of m
 
 **Today's Progress**: Finished the React/Redux challenges in FCC
 
-**Thoughts**: Very interesting, alot to take on however! Have looked ahead at what the front end projects are like.. I'm a little intimidated, however will give it my best crack. When I did the html/css challenges I tried to make the end result look alot like the example just as a basis of what to get to. This time, I might just focus on the functionality side of things and just seek to make something that functions as it's supposed to... then maybe make it look pretty if I feel like doing so. 
+**Thoughts**: Very interesting, alot to take on however! Have looked ahead at what the front end projects are like.. I'm a little intimidated, however will give it my best crack. When I did the html/css challenges I tried to make the end result look alot like the example just as a basis of what to get to. This time, I might just focus on the functionality side of things and just seek to make something that functions as it's supposed to... then maybe make it look pretty if I feel like doing so.  
