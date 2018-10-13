@@ -308,3 +308,9 @@ For example, today felt productive because I was awake and I went over alot of m
 **Today's Progress**: Started work on Speller in CS50
 
 **Thoughts**: Not much to say, but been doing FCC so much lately it's nice to take a break with CS50. 
+
+### Day 49: October 13, Tue, 2018
+
+**Today's Progress**: Continued work on Speller
+
+**Thoughts**: Got it to compile however appears to be some very logical problems. Will have to investigate further at a later stage.
