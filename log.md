@@ -314,3 +314,9 @@ For example, today felt productive because I was awake and I went over alot of m
 **Today's Progress**: Continued work on Speller
 
 **Thoughts**: Got it to compile however appears to be some very logical problems. Will have to investigate further at a later stage.
+
+### Day 50: October 13, Tue, 2018
+
+**Today's Progress**: Continued work on Speller
+
+**Thoughts**: Changed alot of things after realising some clear problems, I think my main issue is I barely understand what I'm actually doing. I'm going to need to run back through some of the coursework to get a better grasp of things :(
