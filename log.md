@@ -309,13 +309,13 @@ For example, today felt productive because I was awake and I went over alot of m
 
 **Thoughts**: Not much to say, but been doing FCC so much lately it's nice to take a break with CS50. 
 
-### Day 49: October 13, Tue, 2018
+### Day 49: October 13, Sat, 2018
 
 **Today's Progress**: Continued work on Speller
 
 **Thoughts**: Got it to compile however appears to be some very logical problems. Will have to investigate further at a later stage.
 
-### Day 50: October 13, Tue, 2018
+### Day 50: October 15, Mon, 2018
 
 **Today's Progress**: Continued work on Speller
 
