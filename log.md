@@ -321,8 +321,14 @@ For example, today felt productive because I was awake and I went over alot of m
 
 **Thoughts**: Changed alot of things after realising some clear problems, I think my main issue is I barely understand what I'm actually doing. I'm going to need to run back through some of the coursework to get a better grasp of things :(
 
-### Day 51: October 15, Fri, 2018
+### Day 51: October 19, Fri, 2018
 
 **Today's Progress**: Continued work on Speller
 
 **Thoughts**: This challenge makes me feel like a dimwit who isn't smart enough to learn programming. I'm very slowly getting there though. But still.. CS50 is ridiculously difficult for an online introductory programming course. I appreciate we're supposed to use other resources etc. to learn, but still.. It, to me feels like a C refresher course, like for people who know C but need to brush up on it or something. meh. I'll get there. 
+
+### Day 52: October 20, Sat, 2018
+
+**Today's Progress**: Finished speller
+
+**Thoughts**: Got there in the end, I still feel like a dimwit because it took me so long, but I suppose that's how learning sometimes feels for concepts particularly verbose and overwhelming. I guess of level of tenacity is required, and it seems that's where the learning occurs. I mean it's not the best solution. But it compiles and passes the checks. So that's the main thing.
