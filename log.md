@@ -332,3 +332,9 @@ For example, today felt productive because I was awake and I went over alot of m
 **Today's Progress**: Finished speller
 
 **Thoughts**: Got there in the end, I still feel like a dimwit because it took me so long, but I suppose that's how learning sometimes feels for concepts particularly verbose and overwhelming. I guess of level of tenacity is required, and it seems that's where the learning occurs. I mean it's not the best solution. But it compiles and passes the checks. So that's the main thing.
+
+### Day 53: October 20, Sat, 2018
+
+**Today's Progress**: Started the free code camp front end library challenges. Only to realise I have no idea what I'm doing. Hence deciding to start the front end libraries cert all over again.
+
+**Thoughts**: After getting through the redux/react stuff, my knowledge of JSON and SASS and bootstrap aswell to some degree completely left me. What I'll do this time is get up to the JSON and SASS stuff and do these, then attempt the first challenge again, then run through react/redux again and try the next challenge with this. Then the remainder, simply do whatever makes the most sense to me.
