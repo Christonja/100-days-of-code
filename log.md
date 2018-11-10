@@ -338,3 +338,9 @@ For example, today felt productive because I was awake and I went over alot of m
 **Today's Progress**: Started the free code camp front end library challenges. Only to realise I have no idea what I'm doing. Hence deciding to start the front end libraries cert all over again.
 
 **Thoughts**: After getting through the redux/react stuff, my knowledge of JSON and SASS and bootstrap aswell to some degree completely left me. What I'll do this time is get up to the JSON and SASS stuff and do these, then attempt the first challenge again, then run through react/redux again and try the next challenge with this. Then the remainder, simply do whatever makes the most sense to me.
+
+### Day 54 and 55: November 10, Fri-Sat, 2018
+
+**Today's Progress**: Decided to start learning Android development and have started a free google created course on Udacity and I'm really enjoying it so far. I also have restarted the front end libraries cert on FCC as I took a big break from it and feel I've forgotten too much, I'm really enjoying the process of solidifying my learning with it. 
+
+**Thoughts**: Will be interesting to see how the Android dev learning goes as I'd like to get an app up and running through my learning. I feel the learning experience will be an encouraging one as it's common for people to make apps from start to finish by themselves and as a self directed learner I would like to see an app of my own come to fruition. If I'm able to say "I made this and people can see and appreciate it", that's a significant yes moment which I feel will help me moving forward. 
