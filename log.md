@@ -350,3 +350,11 @@ For example, today felt productive because I was awake and I went over alot of m
 **Today's Progress**: Continuing through learning Android development
 
 **Thoughts**: Very interesting indeed, starting to make alot of sense and I'm starting to draw similarities between XML and HTML.
+
+### Day 57: December 8, Sat, 2018
+
+**Today's Progress**: Ran through JQuery again in FreeCodeCamp
+
+**Thoughts**: Was fun getting back into JQuery and FreeCodeCamp also. I know I'm not doing this 100DaysOfCode properly anymore. But if it's going to help me occasionally code. Then that, to me is better than not at all. Because I do enjoy coding, but I've just been going through things and it's kinda hard to keep motivated. 
+
+
