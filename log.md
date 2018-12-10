@@ -357,4 +357,9 @@ For example, today felt productive because I was awake and I went over alot of m
 
 **Thoughts**: Was fun getting back into JQuery and FreeCodeCamp also. I know I'm not doing this 100DaysOfCode properly anymore. But if it's going to help me occasionally code. Then that, to me is better than not at all. Because I do enjoy coding, but I've just been going through things and it's kinda hard to keep motivated. 
 
+### Day 58: December 10, Mon, 2018
+
+**Today's Progress**: Continued with Android coding via Udacity
+
+**Thoughts**: Started using Android Studio, excited to get started!
 
