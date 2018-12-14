@@ -363,3 +363,9 @@ For example, today felt productive because I was awake and I went over alot of m
 
 **Thoughts**: Started using Android Studio, excited to get started!
 
+### Day 59: December 14, Fri, 2018
+
+**Today's Progress**: Ran through FreeCodeCamp Sass again. Now onto the first project!
+
+**Thoughts**: Not much to think about, other than it being helpful as a refresher to quickly run through again, it's a short set of challenges with good info so worth doing a few times I think.
+
