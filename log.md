@@ -369,3 +369,10 @@ For example, today felt productive because I was awake and I went over alot of m
 
 **Thoughts**: Not much to think about, other than it being helpful as a refresher to quickly run through again, it's a short set of challenges with good info so worth doing a few times I think.
 
+### Day 60: December 14, Fri, 2018
+
+**Today's Progress**: Onto my first FCC project of the Front end projects. aaand it's near impossible for me.. but I'll get there.
+
+**Thoughts**: I guess being the free course that Free Code camp is I can't expect everything. But I mean I have zero issues with the challenges. But the projects are basically like leagues beyond any of the challenges. I just feel like it doesn't give you enough before sending you out on your own with the projects. Nonetheless it gives the opportunity to research and learn and using alternative resources so.. it's fine.
+
+
