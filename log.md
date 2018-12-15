@@ -369,7 +369,7 @@ For example, today felt productive because I was awake and I went over alot of m
 
 **Thoughts**: Not much to think about, other than it being helpful as a refresher to quickly run through again, it's a short set of challenges with good info so worth doing a few times I think.
 
-### Day 60: December 14, Fri, 2018
+### Day 60: December 15, Sat, 2018
 
 **Today's Progress**: Onto my first FCC project of the Front end projects. aaand it's near impossible for me.. but I'll get there.
 
