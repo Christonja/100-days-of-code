@@ -375,4 +375,13 @@ For example, today felt productive because I was awake and I went over alot of m
 
 **Thoughts**: I guess being the free course that Free Code camp is I can't expect everything. But I mean I have zero issues with the challenges. But the projects are basically like leagues beyond any of the challenges. I just feel like it doesn't give you enough before sending you out on your own with the projects. Nonetheless it gives the opportunity to research and learn and using alternative resources so.. it's fine.
 
+### Day 61: December 17, Mon, 2018
+
+**Today's Progress**: Starting (trying) to make my very first Android 'Hello World' App.. But failing hard
+
+**Thoughts**: Struggling as my old android phone new android phone don't want to accept the android studio sending through the app for testing. Even though I've done all the right things. 
+
+Will need to debug next time I'm doing the course.. but one of these days.. 'fingers crossed' something will work the way it says on the tin. 
+
+
 
