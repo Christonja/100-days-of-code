@@ -383,5 +383,9 @@ For example, today felt productive because I was awake and I went over alot of m
 
 Will need to debug next time I'm doing the course.. but one of these days.. 'fingers crossed' something will work the way it says on the tin. 
 
+### Day 62: December 27, Thurs, 2018
 
+**Today's Progress**: Managed to make the Hello World app and the subsequent Happy Birthday card which I'm very happy with.
+
+**Thoughts**: Found all my initial issues were with the initial code given by the tutorial I was following, just was refusing to compile, found on the net people had the same issue and once I fixed it I was able to move on. Funny thing was, in the next video the tutor just removed that code anyway!
 
