@@ -389,3 +389,9 @@ Will need to debug next time I'm doing the course.. but one of these days.. 'fin
 
 **Thoughts**: Found all my initial issues were with the initial code given by the tutorial I was following, just was refusing to compile, found on the net people had the same issue and once I fixed it I was able to move on. Funny thing was, in the next video the tutor just removed that code anyway!
 
+### Day 63: January 04, Fri, 2019
+
+**Today's Progress**: Stocked to have completed the random quote generator in FCC
+
+**Thoughts**: So proud of myself, had an aha moment when I realised that I could input the quotes via the .html() function in jQuery, the rest was trial and error and solid googling, plus of course prior knowledge, but anyway. Happy as I feel like I've accomplished something and haven't felt that way in my coding for a while now. 
+
