@@ -395,3 +395,5 @@ Will need to debug next time I'm doing the course.. but one of these days.. 'fin
 
 **Thoughts**: So proud of myself, had an aha moment when I realised that I could input the quotes via the .html() function in jQuery, the rest was trial and error and solid googling, plus of course prior knowledge, but anyway. Happy as I feel like I've accomplished something and haven't felt that way in my coding for a while now. 
 
+**Link to work:** [Random Quote Generator](https://codepen.io/christonja/full/wRGPJB)
+
