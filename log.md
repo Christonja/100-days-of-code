@@ -391,9 +391,17 @@ Will need to debug next time I'm doing the course.. but one of these days.. 'fin
 
 ### Day 63: January 04, Fri, 2019
 
-**Today's Progress**: Stocked to have completed the random quote generator in FCC
+**Today's Progress**: Stoked to have completed the random quote generator in FCC
 
 **Thoughts**: So proud of myself, had an aha moment when I realised that I could input the quotes via the .html() function in jQuery, the rest was trial and error and solid googling, plus of course prior knowledge, but anyway. Happy as I feel like I've accomplished something and haven't felt that way in my coding for a while now. 
 
 **Link to work:** [Random Quote Generator](https://codepen.io/christonja/full/wRGPJB)
+
+### Day 64: January 11, Fri, 2019
+
+**Today's Progress**: Finished Udacity's course on Android Basics: User Interface
+
+**Thoughts**: I enjoy android development because you can reach an end product quite quickly. I mean you can with alot of things, but android and phone development in general feels very quick and often relatable and practical. I enjoy all of my coding endeavours but android feels like the one I'm likely to get proficient at the earliest. At least at a practical level. It's enjoyable, it's encouraging. It's nice to have in my toolkit with all my other coding endeavours. There's still a project to do, and to be honest, I'm looking forward to doing it!
+
+**Link to work:** [Make Your Own Card](https://discussions.udacity.com/t/make-your-own-card-christon/927858)
 
