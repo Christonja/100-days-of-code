@@ -405,3 +405,9 @@ Will need to debug next time I'm doing the course.. but one of these days.. 'fin
 
 **Link to work:** [Make Your Own Card](https://discussions.udacity.com/t/make-your-own-card-christon/927858)
 
+### Day 65: January 14, Mon, 2019
+
+**Today's Progress**: Continuing through CS50
+
+**Thoughts**: Started coding up PSET5 2019's website. It's a nice little challenge to learn about working with a site with multiple pages, which although I never thought would be particularly difficult, it's simply something I haven't done yet, so it's kinda fun. Further learning working with bootstrap. Although I'm not a huge fan of bootstrap, I also don't have much experience with it so I guess doing it as a requirement is a good way to learn. (Otherwise I simply wouldn't use it.)
+
