@@ -411,3 +411,9 @@ Will need to debug next time I'm doing the course.. but one of these days.. 'fin
 
 **Thoughts**: Started coding up PSET5 2019's website. It's a nice little challenge to learn about working with a site with multiple pages, which although I never thought would be particularly difficult, it's simply something I haven't done yet, so it's kinda fun. Further learning working with bootstrap. Although I'm not a huge fan of bootstrap, I also don't have much experience with it so I guess doing it as a requirement is a good way to learn. (Otherwise I simply wouldn't use it.)
 
+### Day 66: January 28, Mon, 2019
+
+**Today's Progress**: Finished PSET5 making the website according to specifications laid out in the problem set
+
+**Thoughts**: Happy to have finished it, got more exposure to bootstrap and to making a multi-page website from scratch. Learned a bit more about the power of JQuery also which was good. Any learning's good learning!
+
