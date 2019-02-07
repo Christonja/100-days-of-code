@@ -417,3 +417,8 @@ Will need to debug next time I'm doing the course.. but one of these days.. 'fin
 
 **Thoughts**: Happy to have finished it, got more exposure to bootstrap and to making a multi-page website from scratch. Learned a bit more about the power of JQuery also which was good. Any learning's good learning!
 
+### Day 67: February 7, Thurs, 2019
+
+**Today's Progress**: Started The Web Developer Boot Camp by Colt Steele
+
+**Thoughts**: Finding it very good so far. I spent so long thinking that there's no way some video course could be that good.. but I figured enough people where saying it's really good, it must be.. so here I am.. and finding it pretty good!
