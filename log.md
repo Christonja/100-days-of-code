@@ -422,3 +422,9 @@ Will need to debug next time I'm doing the course.. but one of these days.. 'fin
 **Today's Progress**: Started The Web Developer Boot Camp by Colt Steele
 
 **Thoughts**: Finding it very good so far. I spent so long thinking that there's no way some video course could be that good.. but I figured enough people where saying it's really good, it must be.. so here I am.. and finding it pretty good!
+
+### Day 68: February 8, Fri, 2019
+
+**Today's Progress**: Continuing The Web Developer Boot Camp by Colt Steele working through the HTML videos
+
+**Thoughts**: I feel like I already know HTML quite well, but it's always interesting when you learn even more by simply going through it again by a different teacher.
