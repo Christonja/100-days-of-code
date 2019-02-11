@@ -428,3 +428,9 @@ Will need to debug next time I'm doing the course.. but one of these days.. 'fin
 **Today's Progress**: Continuing The Web Developer Boot Camp by Colt Steele working through the HTML videos
 
 **Thoughts**: I feel like I already know HTML quite well, but it's always interesting when you learn even more by simply going through it again by a different teacher.
+
+### Day 69: February 11, Monday, 2019
+
+**Today's Progress**: Continued with The Web Developer Boot Camp by Colt Steele
+
+**Thoughts**: Enjoying it so far. Especially the way he provides a website layout to replicate then shows how to replicate it. I'm enjoying that style of learning. Looking forward to continuing through the course.
