@@ -434,3 +434,9 @@ Will need to debug next time I'm doing the course.. but one of these days.. 'fin
 **Today's Progress**: Continued with The Web Developer Boot Camp by Colt Steele
 
 **Thoughts**: Enjoying it so far. Especially the way he provides a website layout to replicate then shows how to replicate it. I'm enjoying that style of learning. Looking forward to continuing through the course.
+
+### Day 70: February 13, Wednesday, 2019
+
+**Today's Progress**: Continued with The Web Developer Boot Camp by Colt Steele
+
+**Thoughts**: Still enjoying it :)
