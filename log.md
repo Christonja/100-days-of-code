@@ -440,3 +440,11 @@ Will need to debug next time I'm doing the course.. but one of these days.. 'fin
 **Today's Progress**: Continued with The Web Developer Boot Camp by Colt Steele
 
 **Thoughts**: Still enjoying it :)
+
+### Day 71: February 17, Saturday, 2019
+
+**Today's Progress**: Updated my website with a few new bits and pieces
+
+**Thoughts**: Really enjoy looking after my website. I appreciate it may not be the most amazing website, but I still really love it. 
+
+**Link to work:** [My Website](https://christonja.github.io/)
