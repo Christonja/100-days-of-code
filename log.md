@@ -441,10 +441,16 @@ Will need to debug next time I'm doing the course.. but one of these days.. 'fin
 
 **Thoughts**: Still enjoying it :)
 
-### Day 71: February 17, Saturday, 2019
+### Day 71: February 16, Saturday, 2019
 
 **Today's Progress**: Updated my website with a few new bits and pieces
 
 **Thoughts**: Really enjoy looking after my website. I appreciate it may not be the most amazing website, but I still really love it. 
 
 **Link to work:** [My Website](https://christonja.github.io/)
+
+### Day 72: February 18, Monday, 2019
+
+**Today's Progress**: Continued with the Web developer bootcamp
+
+**Thoughts**: Appreciated re-learning forms and inputs etc. as it's not something I've done alot of for a while with websites. 
