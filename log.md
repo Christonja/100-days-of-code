@@ -454,3 +454,9 @@ Will need to debug next time I'm doing the course.. but one of these days.. 'fin
 **Today's Progress**: Continued with the Web developer bootcamp
 
 **Thoughts**: Appreciated re-learning forms and inputs etc. as it's not something I've done alot of for a while with websites. 
+
+### Day 73: February 20, Wednesday, 2019
+
+**Today's Progress**: Continued with the Web developer bootcamp
+
+**Thoughts**: Starting the CSS portion, it's nice to relearn some of the CSS basics.
