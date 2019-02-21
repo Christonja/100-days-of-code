@@ -460,3 +460,9 @@ Will need to debug next time I'm doing the course.. but one of these days.. 'fin
 **Today's Progress**: Continued with the Web developer bootcamp
 
 **Thoughts**: Starting the CSS portion, it's nice to relearn some of the CSS basics.
+
+### Day 74: February 21, Thursday, 2019
+
+**Today's Progress**: Continued with the Web developer bootcamp
+
+**Thoughts**: Continuing through the CSS portion, continuing to pick up new things.
