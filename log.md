@@ -466,3 +466,9 @@ Will need to debug next time I'm doing the course.. but one of these days.. 'fin
 **Today's Progress**: Continued with the Web developer bootcamp
 
 **Thoughts**: Continuing through the CSS portion, continuing to pick up new things.
+
+### Day 75: February 23, Saturday, 2019
+
+**Today's Progress**: Continued with the Web developer bootcamp
+
+**Thoughts**: Continuing through the CSS portion, made up a little tic tac toe template.
