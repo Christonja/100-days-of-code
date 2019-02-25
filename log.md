@@ -472,3 +472,19 @@ Will need to debug next time I'm doing the course.. but one of these days.. 'fin
 **Today's Progress**: Continued with the Web developer bootcamp
 
 **Thoughts**: Continuing through the CSS portion, made up a little tic tac toe template.
+
+### Day 76: February 24: Sunday, 2019
+
+**Today's Progress**: Added HTML and CSS styles to my new gaming blog format
+
+**Thoughts**: I wouldn't normally count this as something that counts towards my 100daysofcode challenge. Except I spent at least a solid hour (Probably 3 hours), working on the HTML and CSS for my site, researching, testing and implementing different things onto my site. I'm happy with it, but I'm worried it won't be long till I change my mind again!!
+
+**Link to work:** [Gaming Detour](https://gamingdetour.com)
+
+### Day 77: February 25: Monday, 2019
+
+**Today's Progress**: Continued with the Web developer bootcamp
+
+**Thoughts**: Ran through the Photo blog and regular blog CSS stuff. Pretty happy to have completed the blog myself in about 20 - 30 mins. I feel I've definitely filled up some gaps in my CSS knowledge. 
+
+
