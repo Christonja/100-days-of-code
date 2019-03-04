@@ -487,4 +487,10 @@ Will need to debug next time I'm doing the course.. but one of these days.. 'fin
 
 **Thoughts**: Ran through the Photo blog and regular blog CSS stuff. Pretty happy to have completed the blog myself in about 20 - 30 mins. I feel I've definitely filled up some gaps in my CSS knowledge. 
 
+### Day 78: February 25: Monday, 2019
+
+**Today's Progress**: Continued with the Web developer bootcamp
+
+**Thoughts**: Ran through the solution to the blog learning a few new things as I went.
+
 
