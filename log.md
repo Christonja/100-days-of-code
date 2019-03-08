@@ -493,4 +493,9 @@ Will need to debug next time I'm doing the course.. but one of these days.. 'fin
 
 **Thoughts**: Ran through the solution to the blog learning a few new things as I went.
 
+### Day 79: February 25: Monday, 2019
+
+**Today's Progress**: Continued with the Web developer bootcamp moving through the bootstrap stuff at the moment.
+
+**Thoughts**: He has really helped me understand bootstrap better than anyone previously. I finally feel confident enough to attempt implementing it into my own site.. if I decide to do so :) 
 
