@@ -499,3 +499,9 @@ Will need to debug next time I'm doing the course.. but one of these days.. 'fin
 
 **Thoughts**: He has really helped me understand bootstrap better than anyone previously. I finally feel confident enough to attempt implementing it into my own site.. if I decide to do so :) 
 
+### Day 80: March 9: Saturday, 2019
+
+**Today's Progress**: Continued with the Web developer bootcamp finishing the bootstrap stuff. Also I worked on my personal website, deciding to intergrate bootstrap into it.
+
+**Thoughts**: I've done alot of bootstrap learning to date, but never been confident enough to add it into my own site until Colt's course. Ugh turns out he's as good as people say. Still have a number of additions, primarily on the responsiveness front for my site. But all in all happy with the transition. It's cut my CSS in half though.. as it should. 
+
