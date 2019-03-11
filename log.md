@@ -505,3 +505,17 @@ Will need to debug next time I'm doing the course.. but one of these days.. 'fin
 
 **Thoughts**: I've done alot of bootstrap learning to date, but never been confident enough to add it into my own site until Colt's course. Ugh turns out he's as good as people say. Still have a number of additions, primarily on the responsiveness front for my site. But all in all happy with the transition. It's cut my CSS in half though.. as it should. 
 
+### Day 81: March 11: Monday, 2019
+
+**Today's Progress**: Continued with the Web developer but mostly I worked on my personal website, continuing to intergrate bootstrap into it. To the point of finalising it ready to go live.
+
+**Thoughts**: Bootstrap has definitely made my website look better and I managed to use less code to get there. I never used to be a fan of Bootstrap however have since learned that alot of companies value people who know it.. so well.. yeah I better know it. However beyond that I've come to appreciate that I was a little ignorant of bootstrap when I professed to not like it. It used to feel like it took complete control of my website and when I plugged it in it made it hard to customise. I've come to learn this wasn't true, I just didn't know what bootstrap did very well, so that when it came to bootstrap customising things, I didn't know how to turn it off. 
+
+**Link to work:** [My Site](https://christonja.github.io)
+
+### Day 82: March 12: Tuesday, 2019
+
+**Today's Progress**: Continued with the Web developer bootcamp working through Bootstrap 4 content.
+
+**Thoughts**: I was so ready to move onto Javascript because I'm ready for a change of pace, but learning about Bootstrap 4 has been interesting and enlightening. 
+
