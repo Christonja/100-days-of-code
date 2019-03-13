@@ -526,3 +526,11 @@ Will need to debug next time I'm doing the course.. but one of these days.. 'fin
 **Thoughts**: I'm learning so much about bootstrap. To be honest it's kinda reinvigorating my love for development as it's giving me the opportunity to upgrade my site in a muuuch less frustrating way.. you know.. now that I'm starting to feel confident in bootstrap. It's also nice to have kind of a testing ground, being my website for implementing new ideas and adding in new code to make it nicer and nicer and more represent my current knowledge level. 
 
 I'm a big believer in learning by doing and learning by following along with code can sometimes be a huge help, but I've always found, learning by creating and implementing your own project with your own code and research of new ideas and implementations is.. well... that's the real world isn't it?
+
+### Day 84: March 14: Thursday, 2019
+
+**Today's Progress**:  Finished implementing cards from Bootstrap into my site
+
+**Thoughts**: I feel like my site is starting to look like a proper site at this point. I still have a few more things I'd like to do with it. Especially adding a second page. However very happy with how it looks at this point.
+
+**Link to work:** [My Site](https://christonja.github.io)
