@@ -519,3 +519,10 @@ Will need to debug next time I'm doing the course.. but one of these days.. 'fin
 
 **Thoughts**: I was so ready to move onto Javascript because I'm ready for a change of pace, but learning about Bootstrap 4 has been interesting and enlightening. 
 
+### Day 83: March 13: Wednesday, 2019
+
+**Today's Progress**: Continued with the Web developer bootcamp working through Bootstrap 4 content, plus have started adding cards to my site in place of simple a links for the projects.
+
+**Thoughts**: I'm learning so much about bootstrap. To be honest it's kinda reinvigorating my love for development as it's giving me the opportunity to upgrade my site in a muuuch less frustrating way.. you know.. now that I'm starting to feel confident in bootstrap. It's also nice to have kind of a testing ground, being my website for implementing new ideas and adding in new code to make it nicer and nicer and more represent my current knowledge level. 
+
+I'm a big believer in learning by doing and learning by following along with code can sometimes be a huge help, but I've always found, learning by creating and implementing your own project with your own code and research of new ideas and implementations is.. well... that's the real world isn't it?
