@@ -534,3 +534,13 @@ I'm a big believer in learning by doing and learning by following along with cod
 **Thoughts**: I feel like my site is starting to look like a proper site at this point. I still have a few more things I'd like to do with it. Especially adding a second page. However very happy with how it looks at this point.
 
 **Link to work:** [My Site](https://christonja.github.io)
+
+### Day 84,85,86: March 15, 16, 17: Friday, Saturday, Sunday 2019
+
+**Today's Progress**: Friday I polished off the Bootstrap section of the web developer bootcamp, Saturday I began the Javascript section of it, Sunday I added a second page to my site just containing some about me text at the moment with plans to flesh it out in to almost an online resume. I also fixed the header of my side to work better on iPhone X's more than anything. 
+
+**Thoughts**: Not much, just plodding through learning and implementing, learning and implementing, it's working out well. Enjoyable. Nice to run through JavaScript again. Anyway. All good stuff :)
+
+**Link to work:** [My Site](https://christonja.github.io)
+
+
