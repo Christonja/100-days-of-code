@@ -543,10 +543,16 @@ I'm a big believer in learning by doing and learning by following along with cod
 
 **Link to work:** [My Site](https://christonja.github.io)
 
-### Day 88: March 20: Tuesday, 2019
+### Day 88: March 19: Tuesday, 2019
 
 **Today's Progress**:  Continued on with the web developer bootcamp
 
 **Thoughts**: Working through the Javascript, it's a good change of pace in my opinion :)
+
+### Day 89: March 20: Wednesday, 2019
+
+**Today's Progress**:  Continued on with the web developer bootcamp
+
+**Thoughts**: Still working through Javascript
 
 
