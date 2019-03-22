@@ -555,4 +555,10 @@ I'm a big believer in learning by doing and learning by following along with cod
 
 **Thoughts**: Still working through Javascript
 
+### Day 90: March 22: Friday, 2019
+
+**Today's Progress**:  Continued on with the web developer bootcamp + added a bit more to my site.
+
+**Thoughts**: No thoughts today. Just plodding along :)
+
 
