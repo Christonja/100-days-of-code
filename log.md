@@ -561,4 +561,10 @@ I'm a big believer in learning by doing and learning by following along with cod
 
 **Thoughts**: No thoughts today. Just plodding along :)
 
+### Day 91: March 23: Saturday, 2019
+
+**Today's Progress**:  Continued on with the web developer bootcamp
+
+**Thoughts**: Going through Javascript so many times makes me want to pay more attention to niggly little things. ie. In the past if something didn't work.. I'd be okay as long as A: I knew why, or B: I found an alternative.. but now going through.. I simply must know exactly why a particular implementation isn't working!!. 
+
 
