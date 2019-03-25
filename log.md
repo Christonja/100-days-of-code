@@ -529,7 +529,7 @@ I'm a big believer in learning by doing and learning by following along with cod
 
 ### Day 84: March 14: Thursday, 2019
 
-**Today's Progress**:  Finished implementing cards from Bootstrap into my site
+**Today's Progress**: Finished implementing cards from Bootstrap into my site
 
 **Thoughts**: I feel like my site is starting to look like a proper site at this point. I still have a few more things I'd like to do with it. Especially adding a second page. However very happy with how it looks at this point.
 
@@ -545,26 +545,32 @@ I'm a big believer in learning by doing and learning by following along with cod
 
 ### Day 88: March 19: Tuesday, 2019
 
-**Today's Progress**:  Continued on with the web developer bootcamp
+**Today's Progress**: Continued on with the web developer bootcamp
 
 **Thoughts**: Working through the Javascript, it's a good change of pace in my opinion :)
 
 ### Day 89: March 20: Wednesday, 2019
 
-**Today's Progress**:  Continued on with the web developer bootcamp
+**Today's Progress**: Continued on with the web developer bootcamp
 
 **Thoughts**: Still working through Javascript
 
 ### Day 90: March 22: Friday, 2019
 
-**Today's Progress**:  Continued on with the web developer bootcamp + added a bit more to my site.
+**Today's Progress**: Continued on with the web developer bootcamp + added a bit more to my site.
 
 **Thoughts**: No thoughts today. Just plodding along :)
 
 ### Day 91: March 23: Saturday, 2019
 
-**Today's Progress**:  Continued on with the web developer bootcamp
+**Today's Progress**: Continued on with the web developer bootcamp
 
 **Thoughts**: Going through Javascript so many times makes me want to pay more attention to niggly little things. ie. In the past if something didn't work.. I'd be okay as long as A: I knew why, or B: I found an alternative.. but now going through.. I simply must know exactly why a particular implementation isn't working!!. 
 
+### Day 92: March 25: Monday, 2019
 
+**Today's Progress**: Continued on with the web developer bootcamp + Added yet a few more things to my website
+
+**Thoughts**: Finished off Arrays and Objects. Personally I feel like Colt rushed through the objects, but this is likely because, at least I'm led to believe, that there's alot more object work later in the course. But. Even though it felt rushed, he explained the 'this' keyword in a really nice way to help me understand it much better. It's a way to access data from the same object you're already in. Where 'this' simply means the current object. Sounds so simple, but I feel like I'm grasping it much better now. 
+
+**Link to work:** [My Site](https://christonja.github.io), [Arrays!](https://codepen.io/christonja/pen/Qoojbq)
