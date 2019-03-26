@@ -574,3 +574,9 @@ I'm a big believer in learning by doing and learning by following along with cod
 **Thoughts**: Finished off Arrays and Objects. Personally I feel like Colt rushed through the objects, but this is likely because, at least I'm led to believe, that there's alot more object work later in the course. But. Even though it felt rushed, he explained the 'this' keyword in a really nice way to help me understand it much better. It's a way to access data from the same object you're already in. Where 'this' simply means the current object. Sounds so simple, but I feel like I'm grasping it much better now. 
 
 **Link to work:** [My Site](https://christonja.github.io), [Arrays!](https://codepen.io/christonja/pen/Qoojbq)
+
+### Day 93: March 26: Tuesday, 2019
+
+**Today's Progress**: Continued on with the web developer bootcamp
+
+**Thoughts**: Explains the DOM in a great way. I finally understand what it means to manipulate the DOM.. well I think I do!
