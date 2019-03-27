@@ -580,3 +580,9 @@ I'm a big believer in learning by doing and learning by following along with cod
 **Today's Progress**: Continued on with the web developer bootcamp
 
 **Thoughts**: Explains the DOM in a great way. I finally understand what it means to manipulate the DOM.. well I think I do!
+
+### Day 94: March 27: Wednesday, 2019
+
+**Today's Progress**: Continued on with the web developer bootcamp
+
+**Thoughts**: No thoughts today!
