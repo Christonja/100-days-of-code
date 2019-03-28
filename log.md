@@ -586,3 +586,9 @@ I'm a big believer in learning by doing and learning by following along with cod
 **Today's Progress**: Continued on with the web developer bootcamp
 
 **Thoughts**: No thoughts today!
+
+### Day 95: March 29: Friday, 2019
+
+**Today's Progress**: Continued on with the web developer bootcamp
+
+**Thoughts**: No many thoughts today. Just interesting stuff! Manipulating the DOM.
