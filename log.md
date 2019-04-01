@@ -599,3 +599,10 @@ I'm a big believer in learning by doing and learning by following along with cod
 
 **Thoughts**: Starting to understand Javascript DOM manipulation a bit better. Interesting seeing it get put to use.
 
+### Day 97: April 1: Monday, 2019
+
+**Today's Progress**: Continued on with the web developer bootcamp. Finished the RGB color game.
+
+**Thoughts**: Was following along well until he started doing the re-factoring of the code. I appreciate the re-factoring is a learned skill that comes with time, but golly, he runs through it like it's so simple and I'm thinking 'this guy's a wizard!'
+
+**Link to work:** [RGB Color Game](https://codepen.io/christonja/pen/oONmmb)
