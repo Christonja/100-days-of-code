@@ -606,3 +606,9 @@ I'm a big believer in learning by doing and learning by following along with cod
 **Thoughts**: Was following along well until he started doing the re-factoring of the code. I appreciate the re-factoring is a learned skill that comes with time, but golly, he runs through it like it's so simple and I'm thinking 'this guy's a wizard!'
 
 **Link to work:** [RGB Color Game](https://codepen.io/christonja/pen/oONmmb)
+
+### Day 98: April 5: Friday, 2019
+
+**Today's Progress**: Continued on with the web developer bootcamp. Working through jQuery
+
+**Thoughts**: Interesting to contrast jQuery vs vanilla JS. What's more interesting is you begin to learn all these complicated things you hear about, are simply long text files some person or group of people decided to write simply to be helpful. It's not some completely new programming language or anything, simply a helping tool.
