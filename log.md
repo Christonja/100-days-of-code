@@ -612,3 +612,9 @@ I'm a big believer in learning by doing and learning by following along with cod
 **Today's Progress**: Continued on with the web developer bootcamp. Working through jQuery
 
 **Thoughts**: Interesting to contrast jQuery vs vanilla JS. What's more interesting is you begin to learn all these complicated things you hear about, are simply long text files some person or group of people decided to write simply to be helpful. It's not some completely new programming language or anything, simply a helping tool.
+
+### Day 99: April 6: Saturday, 2019
+
+**Today's Progress**: Continued on with the web developer bootcamp. Working through jQuery ready to begin the Todo App project.
+
+**Thoughts**: Learning alot more about jQuery than I feel I got out of FreeCodeCamp's tutorials on it. I think the issue with FreeCodeCamp is it has a very isolated approach to teaching concepts. I'm not saying it's worse, it's just the delivery method of FreeCodeCamp lends itself to learning different concepts in isolation I feel. Whereas something like the Udemy Colt Steele bootcamp has a more sweeping approach to learning as you are constantly using tools and approaches real developers would use. Lending me to feel like FCC is still amazing, but Colt Steele's course is also amazing. I feel effective learning is different for everyone.. for me.. I need a few different avenues to get an holistic appreciation of certain concepts. 
