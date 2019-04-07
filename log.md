@@ -618,3 +618,23 @@ I'm a big believer in learning by doing and learning by following along with cod
 **Today's Progress**: Continued on with the web developer bootcamp. Working through jQuery ready to begin the Todo App project.
 
 **Thoughts**: Learning alot more about jQuery than I feel I got out of FreeCodeCamp's tutorials on it. I think the issue with FreeCodeCamp is it has a very isolated approach to teaching concepts. I'm not saying it's worse, it's just the delivery method of FreeCodeCamp lends itself to learning different concepts in isolation I feel. Whereas something like the Udemy Colt Steele bootcamp has a more sweeping approach to learning as you are constantly using tools and approaches real developers would use. Lending me to feel like FCC is still amazing, but Colt Steele's course is also amazing. I feel effective learning is different for everyone.. for me.. I need a few different avenues to get an holistic appreciation of certain concepts. 
+
+### Day 100: April 7: Sunday, 2019
+
+**Today's Progress**: Started and completed the Todo list on the web developer bootcamp
+
+**Thoughts**: Was a great project for exploring the power of jQuery and how just a few lines of jQuery can be very powerful and helpful to add functionality.
+
+### 100 Days of Code: Final Thoughts ###
+
+It has been an interesting challenge. Obviously I haven't followed it properly. But for me it hasn't been about that. At least it I decided later into the challenge it wasn't about doing an hour of code everyday for 100 days. It was about doing 100 days of code in amongst what I considered to be some significant life changes and difficulties.
+
+I went through a period where I wasn't coding much at all during this challenge, maybe once a week to be generous. But I finished the last 30 days doing nearly everyday, and I think during my lull in coding, I kept going because of this challenge, and when I got back into it, I got back into it because of this challenge. 
+
+For me. This challenge allowed me to keep coding when I felt like giving up, and I've come out the other side with a desire to keep going and pushing myself to learn and grow. 
+
+I hope that beyond this challenge I can challenge myself in different ways and grow more and keep coding and learning new things. 
+
+I hope that this challenge isn't the finale of my desire to code and is just the start of my career in the field. Personally I believe it is. 
+
+I look forward to challenging myself even more moving forward and continuing to code regularly for a long time to come!
